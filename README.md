@@ -1,8 +1,6 @@
 # PSAs for Humanity
 
-I don't understand why humans, despite having all of the knowledge of the world constantly available, are so stupid. 
-
-So I'm compiling public service announcements (PSAs) to try to cope with it.
+I don't understand why humans, despite having all of the knowledge of the world constantly available, are so stupid. So I'm compiling public service announcements (PSAs) and making a little website with them as my way of trying to cope with it. 
 
 ## Contributing
 
